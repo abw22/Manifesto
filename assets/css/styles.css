@@ -1,15 +1,15 @@
 /* styles.css */
 
 html {
-    background-color: goldenrod;
-	background-image: 
-		linear-gradiant(goldenrod, forestgreen);
+    background-color: light pink;
+
+		
 }
 
 h1 {
 	font-family: Arial;
 	color: hotpink;
-	font-size: 220px;
+	font-size: 180px;
 	letter-spacing: 10px;
 }
 
