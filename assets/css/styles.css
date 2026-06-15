@@ -1,18 +1,18 @@
 /* styles.css */
 
 html {
-    background-color: #F2BDCD;	
+    background-color: #FCBEAC;	
 }
 
 h1 {
-	font-family: Sacramento;
+	font-family: Cursive;
 	color: #FDEFB2;
 	font-size: 30px;
 	letter-spacing: 10px;
 }
 
 pre {
-    font-family: Sacramento;
+    font-family: Cursive;
 	color: #6495ED;
 	font-size: 15px;
 	letter-spacing: 5px;
