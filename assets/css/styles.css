@@ -6,15 +6,15 @@ html {
 
 h1 {
 	font-family: Arial;
-	color: hotpink;
-	font-size: 40px;
+	color: #FDEFB2;
+	font-size: 30px;
 	letter-spacing: 10px;
 }
 
 pre {
     font-family: Georgia;
-	color: dodgerblue;
-	font-size: 20px;
+	color: #6495ED;
+	font-size: 15px;
 	letter-spacing: 5px;
 	margin: 30px;
 }
