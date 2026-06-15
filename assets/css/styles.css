@@ -1,7 +1,7 @@
 /* styles.css */
 
 html {
-    background-color: light pink;
+    background-color: rouge;
 
 		
 }
@@ -9,11 +9,11 @@ html {
 h1 {
 	font-family: Arial;
 	color: hotpink;
-	font-size: 180px;
+	font-size: 80px;
 	letter-spacing: 10px;
 }
 
-div {
+pre {
     font-family: Georgia;
 	color: dodgerblue;
 	font-size: 30px;
@@ -22,9 +22,5 @@ div {
 }
 
 
-.red {
-    color: red;
-	font-size: 60px;
-	font-weight: bold;
-	transform: rotate(25deg); 
-}
+
+
